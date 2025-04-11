@@ -1,0 +1,31 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1744162569422" />
+  </component>
+  <component name="Translation.OpenAISettings">
+    <option name="OPEN_AI">
+      <open-ai>
+        <option name="ENDPOINT" value="https://api.chatanywhere.tech" />
+      </open-ai>
+    </option>
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE_SIMPLIFIED" />
+    <option name="translator" value="OPEN_AI" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="public static void main(String[] args) { ArrayList&lt;String&gt; list = new ArrayList&lt;&gt;(); list.add(&quot;hello&quot;); list.add(&quot;world&quot;); list.add(&quot;java&quot;); System.out.println(list); } }" />
+      <item value="System.out.println(list);" />
+      <item value="线程 “main” 中出现异常 java.lang.ArrayIndexOutOfBoundsException：索引 4 超出长度 3 的边界 在 com.itheima.array.ArrayDemo1.main（ArrayDemo1.java：47）" />
+      <item value="Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 3 at com.itheima.array.ArrayDemo1.main(ArrayDemo1.java:47)" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="BASQUE" value="1" />
+        <entry key="CHINESE_SIMPLIFIED" value="2" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>

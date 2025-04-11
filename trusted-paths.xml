@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="E:\Qfxaile\IDEA\Java" value="true" />
+        <entry key="E:\Qfxaile\IDEA\Mybatis" value="true" />
+        <entry key="E:\Qfxaile\IDEA\Mybatis-demo" value="true" />
+        <entry key="E:\Qfxaile\IDEA\Mybatis_demo" value="true" />
+        <entry key="E:\Qfxaile\IDEA\huaishi22mybatis01" value="true" />
+        <entry key="E:\Qfxaile\IDEA\untitled" value="true" />
+        <entry key="E:\Users\Qfxaile\Desktop\Qfxaile\IDEA\untitled" value="true" />
+        <entry key="E:\Users\Qfxaile\IdeaProjects\untitled" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="E:\Qfxaile\IDEA" />
+      </list>
+    </option>
+  </component>
+</application>

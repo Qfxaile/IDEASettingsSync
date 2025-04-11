@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="604" y="192" key="FileChooserDialogImpl" timestamp="1736749541262">
+          <screen x="0" y="0" width="1646" height="981" />
+        </state>
+        <state x="604" y="192" key="FileChooserDialogImpl/0.0.1646.981" timestamp="1736749541262" />
+        <state x="326" y="65" key="SettingsEditor" timestamp="1739926900326">
+          <screen x="0" y="0" width="1646" height="981" />
+        </state>
+        <state x="326" y="65" key="SettingsEditor/0.0.1646.981" timestamp="1739926900326" />
+        <state x="825" y="258" width="800" height="723" key="new project wizard" timestamp="1739926976943">
+          <screen x="0" y="0" width="1646" height="981" />
+        </state>
+        <state x="825" y="258" width="800" height="723" key="new project wizard/0.0.1646.981" timestamp="1739926976943" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
